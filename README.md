@@ -5,7 +5,11 @@ Hi friends, welcome to the game of Supper Mario
 
 
 
-![mario](https://user-images.githubusercontent.com/100313500/172066122-4cc59fbb-e999-4bf4-9f1b-23205f330e2c.gif)
+
+
+https://user-images.githubusercontent.com/100313500/172066186-415c2fc8-ee96-4d4a-bf17-7d3215237c06.mp4
+
+
 
 
 
