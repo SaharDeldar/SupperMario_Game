@@ -3,9 +3,9 @@ Hi friends, welcome to the game of Supper Mario
 ![image](https://user-images.githubusercontent.com/100313500/172065822-e764600e-6e72-4469-904c-00717c39ad73.png)
 
 
+![Uploading mario.gif…]()
 
 
-https://user-images.githubusercontent.com/100313500/172065833-7faccd60-fc5f-46ed-9951-46a521391b7f.mp4
 
 
 code:
