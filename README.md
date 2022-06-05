@@ -5,7 +5,8 @@ Hi friends, welcome to the game of Supper Mario
 
 
 
-https://user-images.githubusercontent.com/100313500/172066096-c6a4486e-5d6a-4065-8a4b-612c50efd688.mp4
+![mario](https://user-images.githubusercontent.com/100313500/172066122-4cc59fbb-e999-4bf4-9f1b-23205f330e2c.gif)
+
 
 
 
